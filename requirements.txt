@@ -1,0 +1,10 @@
+streamlit==1.47.1
+pandas==2.3.1
+numpy==2.2.6
+selenium==4.34.2
+undetected-chromedriver==3.5.5
+requests==2.32.4
+RapidFuzz==3.13.0
+fake-useragent==2.2.0
+Flask==3.1.1
+GitPython==3.1.45
